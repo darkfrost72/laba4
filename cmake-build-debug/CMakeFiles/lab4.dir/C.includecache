@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Влад/CLionProjects/lab4/main.c
+stdio.h
+-
+stdlib.h
+-
+malloc.h
+-
+matrixfunct.c
+/cygdrive/c/Users/Влад/CLionProjects/lab4/matrixfunct.c
+
+/cygdrive/c/Users/Влад/CLionProjects/lab4/matrixfunct.c
+matrixfunct.h
+/cygdrive/c/Users/Влад/CLionProjects/lab4/matrixfunct.h
+
+/cygdrive/c/Users/Влад/CLionProjects/lab4/matrixfunct.h
+
